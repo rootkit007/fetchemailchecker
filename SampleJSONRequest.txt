@@ -1,0 +1,8 @@
+{
+  "requestId": "random id",
+  "emails": [
+    "peter@zeltins.net",
+    "peter@gmail.com",
+    "peter+1@gmail.com"
+  ]
+}
